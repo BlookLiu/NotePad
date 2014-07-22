@@ -1,0 +1,13 @@
+[{
+			classid : 1,
+			classname : '通信原理',
+			period : 40
+		}, {
+			classid : 2,
+			classname : '数据结构',
+			period : 50
+		}, {
+			classid : 3,
+			classname : '计算机网络',
+			period : 30
+		}]
